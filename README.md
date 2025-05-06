@@ -1,17 +1,22 @@
-# my-qa-portfolio
-# 🧪 QA Portfolio — Albina Yevtushenko
+# 🐞 QA Portfolio — Albina Yevtushenko
 
-👋 Hello! I'm Albina Yevtushenko, a junior QA engineer who recently completed a **Manual QA course at GoIT**. I’m passionate about software quality and eager to grow in the QA field. This portfolio includes my homework assignments and practical projects done during my training.
+👋 Hi there! I'm Albina Yevtushenko, a junior QA engineer who recently completed a **Manual QA course at GoIT**. I’m passionate about software quality and eager to grow in the QA field. This portfolio includes my homework assignments and practical projects done during my training.
 
-## 🔧 Skills
+## 🛠️ Skills
 
-- Test design: checklists, test cases
-- Bug reporting (Jira, Google Sheets)
+- Test case and checklist creation (Google Sheets, TestRail)
+- Bug reporting and test planning (Jira, Google Docs/Sheets)
 - Web application testing
 - API testing (Postman)
-- Basic automation (Selenium, JavaScript/Python)
-- Test documentation: bug reports, test plans
+- Understanding of test documentation: bug reports, test plans, test cases
+- Familiarity with manual QA workflows and best practices
+- SQL – Querying databases and verifying data accuracy during testing
+- Version control systems – Familiarity with version control systems like Git for managing code changes and team collaboration.
+- Test design – Designing effective test strategies, selecting testing methods, and ensuring full coverage of functional requirements
+- Web technologies – Knowledge of HTML, CSS, JavaScript for testing web applications and interacting with APIs
+- Mobile testing – Testing mobile applications on Android and iOS platforms using specialized tools and techniques
 
+  
 ## 📚 Homework Projects
 
 | #  | Task Description                   | Format          | Link                                                                 |
@@ -24,6 +29,14 @@
 | 6  | Test Cases (DemoQA Forms)          | Google Sheets    | [View](https://docs.google.com/spreadsheets/d/1tTav1mQEeuyedlP7B0myct-L7wfrzyxKAJ2eSIFLojk/edit?usp=sharing) |
 | 7  | Checklist (Bug Colorlib)           | Google Sheets    | [View](https://docs.google.com/spreadsheets/d/1J6p2olHnyG3ZuA73giJc5ydSuKFD65O1DqN5aqi1_XI/edit?usp=sharing) |
 | 8  | Bug Report Table (Colorlib)        | Google Sheets    | [View](https://docs.google.com/spreadsheets/d/15EFMcxLgb51HSGo4Cak_PVxqv6oLgHuzKk0364jBDXs/edit?usp=sharing) |
+
+## 💖 Hobby
+
+💡 learning new things
+📚 reading books
+🎬 watching movies and series
+🎵 listening to music
+🏃‍♂️ running
 
 ## 📫 Contact
 
