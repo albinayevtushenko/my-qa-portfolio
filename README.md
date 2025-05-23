@@ -30,7 +30,9 @@
 |      7 | Create **JSON** and **XML** files          |  Files   | [JSON File 1](https://drive.google.com/file/d/1_6GTHGeqfLdsOAjg9wzX9Zu0kGZDSL3_/view), [JSON File 2](https://drive.google.com/file/d/1UmnE41yXl-4PUN-Mwa_cboo8bc9TZqTr/view) |
 |      8 | Compose API **requests in Postman**        | Google Sheets / Postman | [Link](https://docs.google.com/spreadsheets/d/1J6p2olHnyG3ZuA73giJc5ydSuKFD65O1DqN5aqi1_XI/edit?gid=196729928#gid=196729928)                                                 |
 |      9 | Work with **SQL queries**                  | Google Sheets / SQL     | [Link](https://docs.google.com/spreadsheets/d/15EFMcxLgb51HSGo4Cak_PVxqv6oLgHuzKk0364jBDXs/edit?gid=196729928#gid=196729928)                                                 |
-|     10 | Use the **command line (CLI)** effectively | Text           | Here I created a repository using git bash                                                                                                                                                                          |
+|     10 | Use the **command line (CLI)** effectively | Text           | Here I created a repository using git bash    
+                                                                                                                                                       
+|     11 | Team project collaboration                 | Google Sheets  |   [Link](https://docs.google.com/spreadsheets/d/139BBekw3tjvO38cIsBH6KDWie0uFxkT3FuJj7erV644)
 
 
 ## 💖 Hobbies and interests
